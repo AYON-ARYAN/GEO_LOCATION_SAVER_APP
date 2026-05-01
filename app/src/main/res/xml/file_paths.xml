@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="external_files" path="." />
+    <external-files-path name="my_images" path="Pictures/GPSMapCamera" />
+    <external-files-path name="my_videos" path="Movies/GPSMapCamera" />
+    <cache-path name="shared_images" path="images/" />
+    <cache-path name="cache_files" path="." />
+</paths>

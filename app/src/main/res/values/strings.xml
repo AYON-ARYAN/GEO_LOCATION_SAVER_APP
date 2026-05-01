@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">GeoGpsCamera</string>
+    <string name="captured_geotagged_image">Captured Geotagged Image</string>
+    <string name="capture_another">Capture Another</string>
+    <string name="save_as_jpg">Save as JPG</string>
+    <string name="save_as_pdf">Save as PDF</string>
+    <string name="gps_enabled_message">
+    This app needs GPS to be enabled to show your location on the map.
+    Please enable GPS to continue.
+</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="cancel">Cancel</string>
+    <string name="your_location">Your Location</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="camera_permission_required">Camera Permission Required</string>
+    <string name="camera_permission_message">This app needs access to your camera to take photos.</string>
+    <string name="location_permission_required">Location Permission Required</string>
+    <string name="location_permission_message">This app needs access to your location to show your current address and map.</string>
+    <string name="ok">OK</string>
+    <string name="permissions_required">Permissions Required</string>
+    <string name="grant_permissions_message">Please grant camera and location permissions to use this app.</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="open_settings">Open Settings</string>
+
+    <string name="audio_permission_required">Microphone Permission Required</string>
+    <string name="audio_permission_message">This app needs microphone access to record videos with sound.</string>
+
+    <string name="photo_mode">Photo Mode</string>
+    <string name="video_mode">Video Mode</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="toggle_flash">Toggle Flash</string>
+    <string name="capture_photo">Capture Photo</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="settings">Settings</string>
+
+    <!-- Grid Options -->
+    <string name="no_grid">No Grid</string>
+    <string name="rule_of_thirds">Rule of Thirds</string>
+    <string name="grid_3x3">Grid 3×3</string>
+    <string name="grid_4x4">Grid 4×4</string>
+
+    <!-- Aspect Ratio -->
+    <string name="aspect_ratio_4_3">4:3</string>
+    <string name="aspect_ratio_16_9">16:9</string>
+
+    <!-- Camera Features -->
+    <string name="auto_rotation">Auto Rotation</string>
+    <string name="level_indicator">Level Indicator</string>
+    <string name="grid">Grid</string>
+    <string name="ratio">Aspect Ratio</string>
+    <string name="sensors">Sensors</string>
+    <string name="photo_filters">Photo Filters</string>
+
+    <!-- Gallery Screen -->
+    <string name="location_information">Location Information</string>
+    <string name="coordinates">Coordinates</string>
+    <string name="open_in_google_maps">Open in Google Maps</string>
+    <string name="share_photo">Share Photo</string>
+    <string name="share_video">Share Video</string>
+    <string name="photo_taken_at">Photo taken at</string>
+    <string name="video_recorded_at">Video recorded at</string>
+    <string name="share_photo_via">Share photo via</string>
+    <string name="share_video_via">Share video via</string>
+    <string name="no_media_provided">No media provided</string>
+
+
+</resources>

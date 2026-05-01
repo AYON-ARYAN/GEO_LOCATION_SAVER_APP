@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.GPSmapCamera" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/app_primary</item>
+        <item name="android:colorPrimaryDark">@color/app_primary</item>
+        <item name="android:colorAccent">@color/app_secondary</item>
+    </style>
+    
+</resources>
